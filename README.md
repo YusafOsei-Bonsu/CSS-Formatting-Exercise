@@ -12,9 +12,9 @@ You have a basic HTML5 web page with the necessary content and information. You 
     - The introduction Children's Literature  section with general information. &#9745;
     - The Classic books available to order  section with the table &#9745;
     - Each of the four Description  sections for each book along with their respective lists of characters &#9745;
-2. Apply formatting to the first Children's Literature  Div using inline  styles so that the entire section is surrounded by a light, orange-colored background.
-3. Apply formatting to the heading in Children's Literature  Div using an internal  style sheet, so that its font color is red  and its font family is Calibri.
-4. Add an internal  style sheet to format all paragraphs in the document, so that their font color is a shade of blue  and its font family is courier new.
+2. Apply formatting to the first Children's Literature  Div using inline  styles so that the entire section is surrounded by a light, orange-colored background. &#9745;
+3. Apply formatting to the heading in Children's Literature  Div using an internal  style sheet, so that its font color is red  and its font family is Calibri. &#9745;
+4. Add an internal  style sheet to format all paragraphs in the document, so that their font color is a shade of blue  and its font family is courier new. &#9745;
 5. Add a class  to the paragraph in the Children's Literature  section, so that it can be formatted independently using an internal CSS style to italicize it. The class should be named "variation".
 6. For Classic books available to order  section, create a DIV ID, so that it can be formatted independently of the other sections with DIVs. Add an internal  style for that DIV ID (called "tablediv"), so that the entire section is surrounded by a blue-colored background. Change the dimensions, so that it surrounds the entire section appropriately.
 7. Apply formatting to the table in the Classic books available to order  section using an internal  style sheet. The table requires a border and the rows need to have alternate colors of 2 shades of yellow (of your choosing).
