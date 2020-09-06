@@ -5,5 +5,9 @@ h1 {
 
 p {
     font-family: 'Courier New';
-    color: #0066ff;
+    color: #0052cc;
+}
+
+.variation {
+    font-style: italic;
 }
