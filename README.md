@@ -1,5 +1,7 @@
 # Exercise: Formatting an HTML page with CSS
 
+![Top of UI](./images/UI.PNG)
+
 ## Scenario
 
 An associate of yours is starting a web site that will promote the benefits of children's literature to the parents of young children. It will also provide a list of popular children's books with some related categorical information. He is starting with four books and wants to be able to easily add additional books in the future. He has provided you with the content and information in an HTML file and wants you to organize and showcase the different sections of information so they stand out appropriately. You need to provide sound formatting to all the information in the page so that it displays elements such as headings, paragraph content, and lists in a logical and visually appealing manner.
