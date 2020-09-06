@@ -9,9 +9,9 @@ An associate of yours is starting a web site that will promote the benefits of c
 You have a basic HTML5 web page with the necessary content and information. You need to organize and format it using a combination of internal cascading styles, inline styles, and external style sheet coding.
 
 1. Create separate DIV containers for formatting for each of the following sections:
-    - The introduction Children's Literature  section with general information.
-    - The Classic books available to order  section with the table
-    - Each of the four Description  sections for each book along with their respective lists of characters
+    - The introduction Children's Literature  section with general information. &#9745;
+    - The Classic books available to order  section with the table &#9745;
+    - Each of the four Description  sections for each book along with their respective lists of characters &#9745;
 2. Apply formatting to the first Children's Literature  Div using inline  styles so that the entire section is surrounded by a light, orange-colored background.
 3. Apply formatting to the heading in Children's Literature  Div using an internal  style sheet, so that its font color is red  and its font family is Calibri.
 4. Add an internal  style sheet to format all paragraphs in the document, so that their font color is a shade of blue  and its font family is courier new.
