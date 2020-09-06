@@ -11,3 +11,24 @@ p {
 .variation {
     font-style: italic;
 }
+
+#tablediv {
+    background-color: blue;
+}
+
+table, th, td {
+    border: 1px solid #000;
+}
+
+
+tr:nth-child(even) {
+    background-color: #ffff33;
+}
+
+tr:nth-child(odd) {
+    background-color: #b3b300;
+}
+
+#headingRow {
+    background-color: transparent;
+}
