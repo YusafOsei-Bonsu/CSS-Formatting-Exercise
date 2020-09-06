@@ -49,3 +49,7 @@ div.description > h4 {
     color: #FF0099;
     font-weight: bold;
 }
+
+a:hover {
+    background-color: #00ccff;
+}
